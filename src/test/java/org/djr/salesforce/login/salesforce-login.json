@@ -1,0 +1,8 @@
+{
+  "access_token": "test_access_token",
+  "instance_url": "https://instance.salesforce.com",
+  "id": "https://login.salesforce.com/id/test_id1/test_id2",
+  "token_type": "Bearer",
+  "issued_at": "1522273517609",
+  "signature": "test_signature"
+}
